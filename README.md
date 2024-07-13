@@ -5,9 +5,16 @@
 
 Esta  API é uma  alicação em backend  construída durante o curso de java da DevSuperiror.
 
-Seu objetivo é dcriar um web service para venda de produtos onde o usuario pode escolher o item 
-e realizar o pagamento.
+O objetivo deste web serve é oferecer uma interface no qual o usuario pode escolher deiversos itens
+e relizar pagamentos. 
 
+## Funcionalidades da API: 
+- Fazer busca de um produto  por id
+- Listar todos produtos cadastrados
+- Cadastrar um produto
+- Alterar informações de um produto
+- Deletar um produto
+  
 
 # Modelo de Domínio
 ![image](https://github.com/user-attachments/assets/7d907cba-6b2e-47c1-abcc-7f201687460c)
